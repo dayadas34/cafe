@@ -1,6 +1,9 @@
 .bgstyle
 {
     background: url("../images/cafe.jpg") rgb(24, 23, 23) no-repeat fixed center;
+    display: block;
+    max-width: 100%;
+    height: auto;
 }   
 
 .bgstyle2
@@ -75,3 +78,30 @@
 {
     color: aliceblue;
 }
+
+.bgimage
+ {
+    width: 100%;
+    height: 400px;
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    border: 1px solid rgb(71, 2, 2);
+  }
+
+  .cofimage
+  {
+    width: 100%;
+    height: 400px;
+    background-image: url("../images/cafe10.jpg");
+    background-size: cover;
+    border: 1px solid rgb(71, 2, 2);
+  }
+
+  .contactimage
+  {
+    width: 100%;
+    height: 400px;
+    background-image: url("../images/Cafe-Backgrounds-HD.jpg");
+    background-size: cover;
+    border: 1px solid rgb(71, 2, 2); 
+  }

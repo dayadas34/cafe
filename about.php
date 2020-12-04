@@ -50,7 +50,7 @@
         </div>
       </nav>
 
-      <img src="images/bg.jpg" alt="" class="image-responsive" height="720px" width="1440px">
+      <div class="bgimage"></div>
 
       <div class="container">
         &nbsp;<br>
@@ -116,8 +116,10 @@
       </div> 
 
       <div class="container">
+
         &nbsp;<br>
         &nbsp;
+
         <p class="pstylemain">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
@@ -128,10 +130,11 @@
              optio voluptatem iure, recusandae, iusto maxime! Lorem ipsum, dolor sit amet consectetur 
              dipisicing elit. 
         </p>
+        
         &nbsp;<br>
         &nbsp;
         
-        <center><img src="images/cafe10.jpg" alt="" class="image-responsive" height="450px" width="800px"></center>
+        <div class="cofimage"></div>
         &nbsp;<br>
         &nbsp;
          

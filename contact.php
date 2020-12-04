@@ -50,7 +50,7 @@
         </div>
       </nav>
 
-      <img src="images/Cafe-Backgrounds-HD.jpg" alt="" height="720px" width="1440px">
+      <div class="contactimage"></div>
       <div class="container">
 
         <div class="row">
