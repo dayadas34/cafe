@@ -5,7 +5,7 @@
 
 .bgstyle2
 {
-    background-color: black;
+    background-color: rgb(99, 7, 7);
 }
 
 .pstyle
@@ -28,7 +28,7 @@
     font-size: 20px;
     color: rgb(82, 6, 6) !important;
     font-style: italic;
-    -webkit-text-stroke: 2px rgb(241, 188, 144);
+    -webkit-text-stroke: 1.5px rgb(241, 188, 144);
 
 }
 
@@ -43,4 +43,35 @@
 .btn
 {
     font-family: 'Times New Roman', Times, serif !important;
+}
+
+
+  .pstylemain
+  {
+      font-size: 17px;
+      color: rgb(245, 208, 128);
+      font-style: italic;
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+.card-title
+{
+    font-size: 20px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    color: rgb(119, 34, 20);
+    -webkit-text-stroke: 1.5px rgb(107, 6, 6);
+}
+
+.pstyle3
+{
+    font-size: 35px;
+    color: rgb(233, 105, 0);
+    -webkit-text-stroke: 2px rgba(223, 150, 102, 0.849);
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.p4
+{
+    color: aliceblue;
 }
